@@ -1,6 +1,6 @@
 # Explyra Code Assist 🚀
 
-Ek single-purpose, blazing-fast AI coding assistant built for developers who hate clutter. Free, secure, and fully under your control.
+A single-purpose, blazing-fast AI coding assistant built for developers who hate clutter. Free, secure, and fully under your control.
 
 ## 🛠 Features
 
@@ -10,7 +10,7 @@ Ek single-purpose, blazing-fast AI coding assistant built for developers who hat
 
 ## ⚙️ Setup & Usage
 
-1. **Setup:** Open VS Code Settings (`Ctrl+,` ya `Cmd+,`). Search for **Explyra** and paste your **Gemini API Key**.
+1. **Setup:** Open VS Code Settings (`Ctrl+,` or `Cmd+,`). Search for **Explyra** and paste your **Gemini API Key**.
 2. **Use:** Highlight any tricky code block and use the right-click menu or the command palette (`Ctrl+Shift+P` -> "Explyra: Analyze Code").
 
 ---
@@ -20,3 +20,4 @@ Ek single-purpose, blazing-fast AI coding assistant built for developers who hat
 - **Source Code:** [GitHub Repository](https://github.com/mitanshu-bhasin/explyra-code-assist)
 
 **Built with ❤️ by Mitanshu Bhasinn**.# explyra-code-assist
+# explyra-code-assist
